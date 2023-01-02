@@ -65,7 +65,7 @@ To login, you will have to choose between log with the server on or off.
 
 As requested, it is possible to save user and password data in localStorage
 
-![Image](https://freeimage.host/i/HuNUfXs)
+![Image](https://postimg.cc/fkTWtK1R)
 
 ---
 Uma vez logado, você poderá navegar entre uma das 4 páginas: RandomUser, HTTP Cat, RandomDog e Lista de clients. 
