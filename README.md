@@ -11,7 +11,7 @@ For more detailed information on the process,
 
 * [Technologies](#technologies)
 * [Installation](#Installation)
-* [Setup](#setup)
+* [Usage](#usage)
 
 ## Technologies
 
@@ -65,7 +65,7 @@ To login, you will have to choose between log with the server on or off.
 
 As requested, it is possible to save user and password data in localStorage
 
-![Image](https://ibb.co/rbRQXmT)
+![Image](https://freeimage.host/i/HuNUfXs)
 
 ---
 Uma vez logado, você poderá navegar entre uma das 4 páginas: RandomUser, HTTP Cat, RandomDog e Lista de clients. 
