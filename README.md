@@ -72,25 +72,25 @@ Uma vez logado, você poderá navegar entre uma das 4 páginas: RandomUser, HTTP
 
 1. Random User
 
-![Image](https://ibb.co/P9NG0t4)
+[![Random-User.png](https://i.postimg.cc/SKzSMj1C/Random-User.png)](https://postimg.cc/4KsRC4gx)
 
 On this page, you will be able to see information of random people from the API [ Random User Generator](https://randomuser.me/). On hover, you can see more information about that person. You can still search and browse pages.
 
 2. HTTP Cat
 
-![Image](https://ibb.co/VT3QghB)
+[![HTTP-Cat.png](https://i.postimg.cc/vTGbkhYt/HTTP-Cat.png)](https://postimg.cc/FdCMJjJY)
 
 In this section you can choose an http code. If it exists in the API [ HTTP Cat](https://http.cat/), an image of a kitten will be shown. Otherwise an "umbrella" image will be shown
 
 3. Random Dog
 
-![Image](https://ibb.co/dtVgvmk)
+[![Random-Dog.png](https://i.postimg.cc/PfMtZgy3/Random-Dog.png)](https://postimg.cc/QVHGZnR1)
 
 Here, when clicking on the button, a doguiho from [Rancdom Dog](https://random.dog/) will appear.
 
 4. Client List
 
-![Image](https://ibb.co/KsY9vyD)
+[![Clients-List.png](https://i.postimg.cc/dVhvbLYp/Clients-List.png)](https://postimg.cc/w1YSJx3Q)
 
 This is the only page that you will only be able to access through your localhost (both front and back end).
 Here you can view some clients, with some other information. You will be able to edit them, delete or add a new one.
