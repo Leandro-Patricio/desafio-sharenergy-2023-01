@@ -7,6 +7,8 @@ The idea was to create a website, fullstack, where the user could, in general, l
 For more detailed information on the process, 
 [visit access your repository](https://github.com/SHARENERGY-OFICIAL/desafio-sharenergy-2023-01)
 
+The video on youtube explaining the site is at the link [https://youtu.be/wQoS0pS7BCw](https://youtu.be/wQoS0pS7BCw)
+
 ## Table of contents
 
 * [Technologies](#technologies)
